@@ -2,11 +2,11 @@
 
 A comprehensive Salesforce CRM implementation showcasing custom objects, roles, app pages, and Apex classes.
 
-## Overview
+## 📋 Overview
 
 This project demonstrates a Property Details management system built on the Salesforce platform.
 
-## Features
+## 🎯 Features
 
 - **Custom Objects**: Customer Object for managing client data
 - **Apex Classes**: Server-side logic implementation
@@ -14,7 +14,7 @@ This project demonstrates a Property Details management system built on the Sale
 - **Role Hierarchy**: Multi-user role configuration (4 users)
 - **Property Management**: Property Details application
 
-## Screenshots
+## 📸 Screenshots
 
 The repository includes visual documentation:
 - Apex class configuration
@@ -24,17 +24,17 @@ The repository includes visual documentation:
 - Role hierarchy setup
 - Customer Object structure
 
-## Documentation
+## 📄 Documentation
 
 See `DOCUMENATION.pdf` for detailed setup instructions and configuration guide.
 
-## Technologies
+## 🛠️ Technologies
 
 - Salesforce Lightning
 - Apex (Salesforce programming language)
 - Lightning App Builder
 - Salesforce CRM
 
-## License
+## 📝 License
 
 Educational project for learning Salesforce development.
